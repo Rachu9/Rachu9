@@ -3,7 +3,7 @@
 ![Game Developer Banner](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dzav3pgtclaw23zdpw0j.png)
 
 <h1 align="center">Hi 👋, I'm Rachana</h1>
-<h3 align="center">"Passionate Web Developer & Designer "</h3>
+<h3 align="center">" Web Developer|CyberSecurity|Ethical Hacking| Designer "</h3>
 <img align ="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/cute-young-businesswoman-working-with-laptop-video-conference-online-communication-3d-illustration-cartoon-character_839035-89132.jpg">
 
 - 🌱 I’m currently learning **Python-Django**
