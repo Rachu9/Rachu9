@@ -12,6 +12,7 @@ Currently learning and Working on **Python-Django** projects.
 
 
 [![Email](https://img.shields.io/badge/Email-4al21cg043@gmail.com-blue)](mailto:4al21cg043@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana-blue)](https://www.linkedin.com/in/rachana-acharya-81390422a/)
 
 </p>
 
