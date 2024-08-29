@@ -40,3 +40,11 @@ Currently learning and Working on **Python-Django** projects.
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachu9&" alt="Rachu9" /></p><br><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachu9&layout=compact&theme=tokyonight" alt="Rachu9" /></p>
+## My Competitive Programming Profiles
+
+- **CodeChef:** [![CodeChef](https://img.shields.io/badge/CodeChef-rachanaacharya-orange)](https://www.codechef.com/users/rachanaacharya)
+- **TryHackMe:** [![TryHackMe](https://img.shields.io/badge/TryHackMe-Acchu99-blue)](https://tryhackme.com/p/Acchu99)
+
+
+Explore my profiles to see my competitive programming and cybersecurity skills!
+
