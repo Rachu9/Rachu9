@@ -12,6 +12,7 @@ Currently learning and Working on **Python-Django** projects.
 
 
 [![Email](https://img.shields.io/badge/Email-4al21cg043@gmail.com-blue)](mailto:4al21cg043@gmail.com)
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana-blue)](https://www.linkedin.com/in/rachana-acharya-81390422a/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachu9&label=Profile%20views&color=0e75b6&style=flat" alt="Rachu9" /> </p>
 
@@ -46,7 +47,7 @@ Currently learning and Working on **Python-Django** projects.
 - **CodeChef:** [![CodeChef](https://img.shields.io/badge/CodeChef-rachanaacharya-orange)](https://www.codechef.com/users/rachanaacharya)
 - **TryHackMe:** [![TryHackMe](https://img.shields.io/badge/TryHackMe-Acchu99-blue)](https://tryhackme.com/p/Acchu99)
   <br>
- <img src="https://tryhackme-badges.s3.amazonaws.com/Acchu99.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Acchu99.png" alt="TryHackMe">
 
 
 Explore my profiles to see my competitive programming and cybersecurity skills!
