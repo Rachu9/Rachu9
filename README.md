@@ -46,7 +46,7 @@ Currently learning and Working on **Python-Django** projects.
 - **CodeChef:** [![CodeChef](https://img.shields.io/badge/CodeChef-rachanaacharya-orange)](https://www.codechef.com/users/rachanaacharya)
 - **TryHackMe:** [![TryHackMe](https://img.shields.io/badge/TryHackMe-Acchu99-blue)](https://tryhackme.com/p/Acchu99)
   <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Acchu99.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Acchu99.png" alt="TryHackMe">
 
 
 Explore my profiles to see my competitive programming and cybersecurity skills!
