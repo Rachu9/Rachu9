@@ -6,7 +6,9 @@
 <h3 align="center"> Web Developer | CyberSecurity | Ethical Hacking | Designer </h3>
 
 
-Currently learning and Working on **Python-Django** projects.
+I am currently focused on learning and developing projects using  Python and Django. My work involves building and enhancing web applications, implementing features, and managing databases to create efficient and effective solutions.
+
+
 
 
 
