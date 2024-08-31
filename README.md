@@ -13,9 +13,9 @@ I am currently focused on learning and developing projects using  Python and Dja
 
 
 
-[![Email](https://img.shields.io/badge/Email-4al21cg043@gmail.com-blue)](mailto:4al21cg043@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4al21cg043@gmail.com-orange)](mailto:4al21cg043@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana-blue)](https://www.linkedin.com/in/rachana-acharya-81390422a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana-yellow)](https://www.linkedin.com/in/rachana-acharya-81390422a/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachu9&label=Profile%20views&color=0e75b6&style=flat" alt="Rachu9" /> </p>
 
 </p>
