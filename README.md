@@ -14,8 +14,9 @@ I am currently focused on learning and developing projects using  Python and Dja
 
 
 [![Email](https://img.shields.io/badge/Email-4al21cg043@gmail.com-orange)](mailto:4al21cg043@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana-yellow)](https://www.linkedin.com/in/rachana-acharya-81390422a/)
+ [![CodeChef](https://img.shields.io/badge/CodeChef-rachanaacharya-purple)](https://www.codechef.com/users/rachanaacharya)
+ [![TryHackMe](https://img.shields.io/badge/TryHackMe-Acchu99-green)](https://tryhackme.com/p/Acchu99)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachu9&label=Profile%20views&color=0e75b6&style=flat" alt="Rachu9" /> </p>
 
 </p>
@@ -41,14 +42,13 @@ I am currently focused on learning and developing projects using  Python and Dja
 ## Database
 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username==Rachu9&show_icons=true&locale=en&layout=compact" alt="Rachu9" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachu9&" alt="Rachu9" /></p><br><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachu9&layout=compact&theme=tokyonight" alt="Rachu9" /></p>
 
-## My Competetive Programming Profiles and Cybersecurity Profiles
+##  Cybersecurity Profiles
 
-- **CodeChef:** [![CodeChef](https://img.shields.io/badge/CodeChef-rachanaacharya-orange)](https://www.codechef.com/users/rachanaacharya)
-- **TryHackMe:** [![TryHackMe](https://img.shields.io/badge/TryHackMe-Acchu99-blue)](https://tryhackme.com/p/Acchu99)
-  <br>
+
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Acchu99.png" alt="TryHackMe">
 
 
