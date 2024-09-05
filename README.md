@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Rachana</h1>
+<h1 align="center">RACHANA</h1>
 <h3 align="center"> Web Developer | CyberSecurity | Ethical Hacking | Designer </h3>
 
 
