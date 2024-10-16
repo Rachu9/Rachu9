@@ -5,6 +5,7 @@
 <h1 align="center">RACHANA</h1>
 <h3 align="center"> Web Developer | Cybersecurity Enthusiast | Ethical Hacking | Designer | Python-Django Developer  </h3>
 
+
 I am a passionate frontend engineer and a **Full-stack Python-Django developer** with a passion for creating user-centric, modern web applications. Currently pursuing a Bachelor's degree in **Computer Science and Design**, I am focused on developing projects using Python and Django. My expertise lies in building and enhancing web applications, implementing key features, and managing databases to deliver efficient and scalable solutions.
 
 
