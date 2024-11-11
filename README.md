@@ -39,6 +39,12 @@ I am a passionate frontend engineer and a **Full-stack Python-Django developer**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachu9&" alt="Rachu9" /></p><br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachu9&layout=compact&theme=tokyonight" alt="Rachu9" /></p>
 
+<h3 align="left">GitHub Stats:</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rachu9&show_icons=true&locale=en" alt="Rachana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachu9&" alt="Rachana" /></p>
+
 ##  Cybersecurity Profiles
 
 
