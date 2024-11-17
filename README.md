@@ -48,8 +48,7 @@ I am a passionate frontend engineer and a **Full-stack Python-Django developer**
 ##  Cybersecurity Profiles
 
 
-  
-<img src="https://tryhackme-badges.s3.amazonaws.com/RachuAcharya.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/RachuAcharya.png" alt="Your Image Badge" />
 
 
 
