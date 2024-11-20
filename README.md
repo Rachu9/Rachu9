@@ -115,7 +115,7 @@
 ## Cybersecurity Profiles
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/RachuAcharya.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/RachuAcharya.png" alt="Your Image Badge" />
 </div>
 
 <p align="center">Explore my journey on <a href="https://tryhackme.com/p/Acchu99"><strong>TryHackMe</strong></a> and <a href="https://www.codechef.com/users/rachanaacharya"><strong>CodeChef</strong></a>!</p>
