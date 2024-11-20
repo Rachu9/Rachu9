@@ -5,7 +5,6 @@
   I am a frontend engineer and Full-stack Python-Django developer, passionate about creating user-centric web applications. Currently pursuing a Bachelor's degree in Computer Science and Design, I focus on building scalable, efficient, and feature-rich applications. My projects are a blend of innovation, design, and functionality, ensuring seamless user experiences.
 </p>
 
-
 <div align="center">
   <a href="mailto:4al21cg043@gmail.com">
     <img src="https://img.shields.io/badge/Email-4al21cg043@gmail.com-orange" alt="Email">
@@ -18,6 +17,9 @@
   </a>
   <a href="https://tryhackme.com/p/Acchu99">
     <img src="https://img.shields.io/badge/TryHackMe-Acchu99-green" alt="TryHackMe">
+  </a>
+  <a href="https://rachanaacharya.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-rachanaacharya.netlify.app-blue" alt="Portfolio">
   </a>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Rachu9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
