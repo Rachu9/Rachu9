@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Cybersecurity Enthusiast | Ethical Hacker | Designer | Python-Django Developer</h3>
 
 <p align="center">
-  I am a frontend engineer and Full-stack Python-Django developer, passionate about creating user-centric web applications. Currently pursuing a Bachelor's degree in **Computer Science and Design**, I focus on building scalable, efficient, and feature-rich applications. My projects are a blend of innovation, design, and functionality, ensuring seamless user experiences.
+  I am a frontend engineer and Full-stack Python-Django developer, passionate about creating user-centric web applications. Currently pursuing a Bachelor's degree in Computer Science and Design, I focus on building scalable, efficient, and feature-rich applications. My projects are a blend of innovation, design, and functionality, ensuring seamless user experiences.
 </p>
 
 ---
