@@ -1,23 +1,36 @@
 <h1 align="center">RACHANA</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast |  Designer | Python-Django Developer</h3>
+<h3 align="center">Web Developer | Cybersecurity Enthusiast | Ethical Hacker | Designer | Python-Django Developer</h3>
 
-I am a **frontend engineer** and **Full-stack Python-Django developer**, passionate about creating user-centric web applications. Currently pursuing a Bachelor's degree in **Computer Science and Design**, I focus on building scalable, efficient, and feature-rich applications. My projects are a blend of innovation, design, and functionality, ensuring seamless user experiences.
+<p align="center">
+  I am a **frontend engineer** and **Full-stack Python-Django developer**, passionate about creating user-centric web applications. Currently pursuing a Bachelor's degree in **Computer Science and Design**, I focus on building scalable, efficient, and feature-rich applications. My projects are a blend of innovation, design, and functionality, ensuring seamless user experiences.
+</p>
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-4al21cg043@gmail.com-orange)](mailto:4al21cg043@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachana-yellow)](https://www.linkedin.com/in/rachana-acharya-81390422a/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-rachanaacharya-purple)](https://www.codechef.com/users/rachanaacharya)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Acchu99-green)](https://tryhackme.com/p/Acchu99)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rachu9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<div align="center">
+  <a href="mailto:4al21cg043@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4al21cg043@gmail.com-orange" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/rachana-acharya-81390422a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rachana-yellow" alt="LinkedIn">
+  </a>
+  <a href="https://www.codechef.com/users/rachanaacharya">
+    <img src="https://img.shields.io/badge/CodeChef-rachanaacharya-purple" alt="CodeChef">
+  </a>
+  <a href="https://tryhackme.com/p/Acchu99">
+    <img src="https://img.shields.io/badge/TryHackMe-Acchu99-green" alt="TryHackMe">
+  </a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Rachu9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
 ## Skills
 
 ### **Programming Languages**
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
@@ -30,7 +43,7 @@ I am a **frontend engineer** and **Full-stack Python-Django developer**, passion
 </p>
 
 ### **Web Development**
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   </a>
@@ -46,7 +59,7 @@ I am a **frontend engineer** and **Full-stack Python-Django developer**, passion
 </p>
 
 ### **Design Tools**
-<p align="left">
+<p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
@@ -59,7 +72,7 @@ I am a **frontend engineer** and **Full-stack Python-Django developer**, passion
 </p>
 
 ### **Operating Systems**
-<p align="left">
+<p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
@@ -72,28 +85,22 @@ I am a **frontend engineer** and **Full-stack Python-Django developer**, passion
 
 ## GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rachu9&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachu9&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rachu9&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachu9&theme=tokyonight" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachu9&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
 ## Cybersecurity Profiles
 
-<p align="center">
+<div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/RachuAcharya.png" alt="TryHackMe Badge" />
-</p>
+</div>
 
-Explore my competitive programming and cybersecurity journey on [**TryHackMe**](https://tryhackme.com/p/Acchu99) and [**CodeChef**](https://www.codechef.com/users/rachanaacharya)!
+<p align="center">Explore my journey on <a href="https://tryhackme.com/p/Acchu99"><strong>TryHackMe</strong></a> and <a href="https://www.codechef.com/users/rachanaacharya"><strong>CodeChef</strong></a>!</p>
 
 ---
 
-Feel free to copy this and update it further based on your needs! 😊
+This layout ensures optimal readability on desktop screens. You can preview it to confirm how it looks. 😊
