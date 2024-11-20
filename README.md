@@ -26,60 +26,79 @@
 </div>
 
 ---
-
 ## Skills
 
-### **Programming Languages**
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Programming Languages</b></td>
+      <td align="center"><b>Web Development</b></td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+          </a>
+          <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+          </a>
+          <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+          </a>
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+          </a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+          </a>
+          <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Design Tools</b></td>
+      <td align="center"><b>Operating Systems</b></td>
+    </tr>
+    <tr>
+      <td>
+        <p>
+          <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+          </a>
+          <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
+          </a>
+          <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+          </a>
+          <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Web Development**
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
-  </a>
-</p>
+---
 
-### **Design Tools**
-<p align="center">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
-  </a> 
-</p>
-
-### **Operating Systems**
-<p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/> 
-  </a> 
-</p>
 
 ---
 
