@@ -81,4 +81,4 @@
 
 ---
 
-This layout ensures optimal readability on desktop screens. You can preview it to confirm how it looks. 😊
+This layout ensures optimal readability on desktop screens. You can preview it to confirm how it looks. 
